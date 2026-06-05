@@ -1,0 +1,6 @@
+streamlit
+openai
+pymupdf
+Pillow
+reportlab
+python-dotenv
