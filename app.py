@@ -10,7 +10,7 @@ st.set_page_config(page_title="Fixed Template Vocab Generator", layout="wide")
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-TEMPLATE_PATH = "templates/master_template.pdf"
+TEMPLATE_PATH = "templates/Year_8_Agriculture_Gardening_Pre_Assessment_Combined.pdf"
 OUTPUT_DPI = 200
 
 # Adjust these once only if needed
